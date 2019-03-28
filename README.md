@@ -2,6 +2,7 @@
 Model for medical specific word embeddings
 
 Paper is available here: 
+
 If you find our model to your research, please consider citing our paper.
 
 
