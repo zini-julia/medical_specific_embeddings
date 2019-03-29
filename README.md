@@ -1,10 +1,10 @@
 # medical_specific_embeddings
+
 Model for medical specific word embeddings
 
-Paper is available here: 
-Data is available here: https://drive.google.com/file/d/1Sfed3BWpXodZHan2gjyLADDjxsS2OGXm/view
+Model is available here: https://drive.google.com/file/d/1Sfed3BWpXodZHan2gjyLADDjxsS2OGXm/view
 
-If you find our model to your research, please consider citing our paper.
+If you find our model useful to your research, please consider citing our paper.
 
 
 # Requirements
@@ -16,6 +16,7 @@ The original dataset can be found here
 http://deepdive.stanford.edu/opendata
 
 # Citation
+El Zini, J., Rizk, Y., Awad, M., and Antoun, J., "Towards A Deep Learning Question-Answering Specialized Chatbot for Objective Structured Clinical Examinations ", International Joint Conference on Neural Networks, Budapest, Hungary, July 14-19, 2019. 
 
-# License
+
 
